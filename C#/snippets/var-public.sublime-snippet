@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+public ${1:type} ${2:name}${3: = ${4:value}};
+]]></content>
+	<tabTrigger>pv</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

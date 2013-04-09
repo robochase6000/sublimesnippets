@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+private var _${1:varName}:${2:type}${3: = ${4:value}};
+]]></content>
+	<tabTrigger>pvv</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

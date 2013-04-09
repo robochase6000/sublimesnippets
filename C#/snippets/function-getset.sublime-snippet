@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+public ${1:type} ${2:name}
+{
+	get 
+	{ 
+		return _$2; 
+	}
+	set
+	{ 
+		_$2 = value; 
+	}
+}$0
+]]></content>
+	<tabTrigger>getset</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

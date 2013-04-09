@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:condition})
+{
+	case ${2:condtion}:		Debug.Log("$2: " + $2);		break;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>switch1in</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cs</scope>
+</snippet>

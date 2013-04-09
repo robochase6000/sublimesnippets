@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+public static const ${1:CONST_NAME}:${2:type}${3: = ${4:value}};
+]]></content>
+	<tabTrigger>const</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

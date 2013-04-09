@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+set
+{
+	${1:name} = value;$0
+}
+]]></content>
+	<tabTrigger>set</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

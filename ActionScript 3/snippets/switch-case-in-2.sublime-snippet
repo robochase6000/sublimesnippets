@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:condition})
+{
+	case ${2:condtion}:		trace("$2: " + $2);		break;
+	case ${3:condtion}:		trace("$3: " + $3);		break;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>switch2in</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.actionscript</scope>
+</snippet>

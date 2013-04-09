@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:type} ${2:name}${3: = ${4:value}};
+]]></content>
+	<tabTrigger>var</tabTrigger>
+	<scope>source.cs</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+protected function ${1:void} ${2:functionName}($3)
+{
+	$0
+}
+]]></content>
+	<tabTrigger>prf</tabTrigger>
+	<description>make a protected function (c#)</description>
+	<scope>source.cs</scope>
+</snippet>

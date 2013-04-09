@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+for (var ${1:i}:int = ${2:0}; $1 < ${3:n}; $1++)
+{
+	for (var ${4:j}:int = ${5:0}; $4< ${6:n}; $4++)
+	{
+		$0
+	}
+}
+]]></content>
+	<tabTrigger>for2</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

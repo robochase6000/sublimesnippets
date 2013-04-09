@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+protected function ${1:functionName}($2):${3:void}
+{
+	$0
+}
+]]></content>
+	<tabTrigger>prf</tabTrigger>
+	<description>make a protected function (as3)</description>
+	<scope>source.actionscript</scope>
+</snippet>

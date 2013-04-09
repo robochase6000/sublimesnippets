@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+private function ${1:functionName}($2):${3:void}
+{
+	$0
+}
+]]></content>
+	<tabTrigger>pvf</tabTrigger>
+	<description>make a private function (as3)</description>
+	<scope>source.actionscript</scope>
+</snippet>

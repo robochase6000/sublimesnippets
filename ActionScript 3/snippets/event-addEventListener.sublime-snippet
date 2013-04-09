@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+${1:this.}addEventListener(${2:Event}.${3:ADDED_TO_STAGE}, ${4:handleAddedToStage});$0
+]]></content>
+	<tabTrigger>add</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

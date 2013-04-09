@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+public function get ${1:varName}():${2:void}
+{
+	_$1;
+}
+]]></content>
+	<tabTrigger>get</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

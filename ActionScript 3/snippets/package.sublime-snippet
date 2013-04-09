@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+/**
+*	
+*/
+package $1
+{	
+	/**
+	*	
+	*/
+	public class ${2:ClassName} ${3:extends $4}
+	{
+		
+		/**
+		*	@constructor
+		*/
+		public function $2():void
+		{
+			$0
+		}
+		
+		
+	}
+}
+]]></content>
+	<tabTrigger>pk</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>

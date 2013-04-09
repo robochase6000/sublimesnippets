@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+protected static var _${1:varName}:${2:type}${3: = ${4:value}};
+]]></content>
+	<tabTrigger>prvs</tabTrigger>
+	<scope>source.actionscript</scope>
+</snippet>
